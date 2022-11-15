@@ -1,0 +1,12 @@
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\bin\Debug\BusinessLoginLayer(BLL).dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\bin\Debug\BusinessLoginLayer(BLL).pdb
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\bin\Debug\DataAccessLayer(DAL).dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\bin\Debug\EntityFramework.dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\bin\Debug\DataAccessLayer(DAL).pdb
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\bin\Debug\DataAccessLayer(DAL).dll.config
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\bin\Debug\EntityFramework.xml
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\obj\Debug\BusinessLogicLayer(BLL).csproj.AssemblyReference.cache
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\obj\Debug\BusinessLogicLayer(BLL).csproj.CoreCompileInputs.cache
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\obj\Debug\BusinessLogicLayer(BLL).csproj.CopyComplete
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\obj\Debug\BusinessLoginLayer(BLL).dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\BusinessLoginLayer(BLL)\obj\Debug\BusinessLoginLayer(BLL).pdb

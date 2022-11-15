@@ -1,0 +1,10 @@
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).dll.config
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).pdb
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\bin\Debug\EntityFramework.dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\bin\Debug\EntityFramework.xml
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csproj.AssemblyReference.cache
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csproj.CoreCompileInputs.cache
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csproj.CopyComplete
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_MVC_Layer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).pdb
